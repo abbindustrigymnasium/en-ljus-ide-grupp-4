@@ -31,6 +31,3 @@ I Mikrodator folder så finns ardouino koden som vi kör på mikrodatorn som sit
 
 
 Detta projekt är gjort av Erik Hallberg, Dilovan Yolbas och Hugo Hjorth.
-
-
-en-ljus-ide-grupp-4 created by GitHub Classroom
