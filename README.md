@@ -1,5 +1,3 @@
-# en-ljus-ide-grupp-4
-
 # Smart Lampa
 
 Detta är koden som vi har för att få våran smarta lampa at funka.
