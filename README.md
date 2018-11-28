@@ -30,7 +30,7 @@ Vi har gjort frontenden som en mobil app med hjälp av React Native frameworket 
 I Mikrodator folder så finns ardouino koden som vi kör på mikrodatorn som sitter på lampan. Den är kodad i ardouino's egna editor och alla libiaries som behövs står i början. Denna fil är också kommenterad.
 
 
-
+Detta projekt är ett samarbete mellan Erik Hallberg, Dilovan Yolbas och Hugo Hjorth.
 
 
 en-ljus-ide-grupp-4 created by GitHub Classroom
